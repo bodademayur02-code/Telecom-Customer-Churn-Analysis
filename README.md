@@ -1,9 +1,9 @@
-# 📊 Telecom Customer Churn Analysis  
+# Telecom Customer Churn Analysis  
 **End-to-End Data Analytics Project | SQL + Python + Power BI**
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 Customer churn directly impacts revenue, profitability, and Customer Lifetime Value (CLTV).  
 This project analyzes churn behavior across **7,043 telecom customers** to identify:
@@ -17,7 +17,7 @@ The analysis integrates **SQL (business queries), Python (cleaning & EDA), and P
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 > Identify the major drivers of churn and quantify financial exposure to support strategic retention planning.
 
@@ -31,7 +31,7 @@ Key focus areas:
 
 ---
 
-## 🗂 Dataset Overview
+## Dataset Overview
 
 | File | Description | Rows |
 |------|-------------|------|
@@ -51,7 +51,7 @@ After merging and cleaning:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|--------|
@@ -63,7 +63,7 @@ After merging and cleaning:
 
 ---
 
-## 🔄 Analytical Workflow
+## Analytical Workflow
 
 ### Step 1 — Data Cleaning (Python)
 
@@ -113,30 +113,30 @@ Created analytical segments:
 The dashboard was designed for business managers to monitor churn drivers and revenue exposure dynamically.
 
 ---
-### 🔹 Page 1 — Contract & Tenure Risk
+### Page 1 — Contract & Tenure Risk
 
 This page shows churn rate by contract type and tenure group.
 
-![Page 1](power-bi-dashboard/page1_contract_tenure.png)
+![image]([power-bi-dashboard/page1_contract_tenure.png](https://github.com/bodademayur02-code/Telecom-Customer-Churn-Analysis/blob/80bd020c958363ffed9eb3060e4d88a616401a58/power%20bi%20dashboard/page1_contract_tenure.png))
 
 ---
 
-### 🔹 Page 2 — Services & Offers
+### Page 2 — Services & Offers
 
 This page highlights churn by internet type and promotional offers.
 
-![Page 2](power-bi-dashboard/page2_services_offers.png)
+![image]([power-bi-dashboard/page2_services_offers.png](https://github.com/bodademayur02-code/Telecom-Customer-Churn-Analysis/blob/80bd020c958363ffed9eb3060e4d88a616401a58/power%20bi%20dashboard/page2_services_offers.png))
 
 ---
 
-### 🔹 Page 3 — Revenue Risk
+### Page 3 — Revenue Risk
 
 This page focuses on revenue at risk and CLTV impact.
 
-![Page 3](power-bi-dashboard/page3_revenue_risk.png)
+![image]([power-bi-dashboard/page3_revenue_risk.png](https://github.com/bodademayur02-code/Telecom-Customer-Churn-Analysis/blob/80bd020c958363ffed9eb3060e4d88a616401a58/power%20bi%20dashboard/page3_revenue_risk.png))
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 - **Overall churn rate: 26.54%** (1 in 4 customers)
 - Month-to-Month contracts show highest churn
@@ -149,7 +149,7 @@ This page focuses on revenue at risk and CLTV impact.
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 | Priority | Recommendation | Business Rationale |
 |----------|---------------|-------------------|
@@ -163,7 +163,7 @@ This page focuses on revenue at risk and CLTV impact.
 
 ---
 
-## 🚀 Project Value
+## Project Value
 
 This project demonstrates:
 
@@ -173,6 +173,3 @@ This project demonstrates:
 - Executive-level insight communication  
 - Strategic decision support  
 
----
-
-📌 *Built as part of Data Analyst portfolio preparation.*
