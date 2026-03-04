@@ -117,7 +117,7 @@ The dashboard was designed for business managers to monitor churn drivers and re
 
 This page shows churn rate by contract type and tenure group.
 
-![Contract & Tenure](dashboard/screenshots/page1_contract_tenure.png)
+![Page 1](power-bi-dashboard/page1_contract_tenure.png)
 
 ---
 
@@ -125,7 +125,7 @@ This page shows churn rate by contract type and tenure group.
 
 This page highlights churn by internet type and promotional offers.
 
-![Services & Offers](dashboard/screenshots/page2_services_offers.png)
+![Page 2](power-bi-dashboard/page2_services_offers.png)
 
 ---
 
@@ -133,7 +133,7 @@ This page highlights churn by internet type and promotional offers.
 
 This page focuses on revenue at risk and CLTV impact.
 
-![Revenue Risk](dashboard/screenshots/page3_revenue_risk.png)
+![Page 3](power-bi-dashboard/page3_revenue_risk.png)
 ---
 
 ## 📈 Key Business Insights
