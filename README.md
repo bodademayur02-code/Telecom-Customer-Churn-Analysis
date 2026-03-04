@@ -153,13 +153,13 @@ This page focuses on revenue at risk and CLTV impact.
 
 | Priority | Recommendation | Business Rationale |
 |----------|---------------|-------------------|
-| 🔴 High | Convert Month-to-Month to annual contracts | Primary churn driver |
-| 🔴 High | Strengthen first 6-month onboarding | Highest churn segment |
-| 🔴 High | Implement competitor counter-offer strategy | 46% churn reason |
-| 🟠 Medium | Review Fiber Optic pricing | $3.0M at risk |
-| 🟠 Medium | Promote premium support bundles | Reduces churn significantly |
-| 🟡 Low | Launch referral rewards | High churn among 0-referral users |
-| 🟡 Low | Encourage auto-pay adoption | High churn among mailed check users |
+|  High | Convert Month-to-Month to annual contracts | Primary churn driver |
+|  High | Strengthen first 6-month onboarding | Highest churn segment |
+|  High | Implement competitor counter-offer strategy | 46% churn reason |
+|  Medium | Review Fiber Optic pricing | $3.0M at risk |
+|  Medium | Promote premium support bundles | Reduces churn significantly |
+|  Low | Launch referral rewards | High churn among 0-referral users |
+|  Low | Encourage auto-pay adoption | High churn among mailed check users |
 
 ---
 
