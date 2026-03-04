@@ -117,7 +117,7 @@ The dashboard was designed for business managers to monitor churn drivers and re
 
 This page shows churn rate by contract type and tenure group.
 
-[Page 1](power-bi-dashboard/page1_contract_tenure.png)
+![Page 1](power-bi-dashboard/page1_contract_tenure.png)
 
 ---
 
@@ -125,7 +125,7 @@ This page shows churn rate by contract type and tenure group.
 
 This page highlights churn by internet type and promotional offers.
 
-[Page 3](power-bi-dashboard/page3_revenue_risk.png)
+![Page 2](power-bi-dashboard/page2_services_offers.png)
 
 ---
 
@@ -135,16 +135,7 @@ This page focuses on revenue at risk and CLTV impact.
 
 ![Page 3](power-bi-dashboard/page3_revenue_risk.png)
 ---
-## 📊 Power BI Dashboard
 
-### 🔹 Page 1 — Contract & Tenure
-![Page 1](power-bi-dashboard/page1_contract_tenure.png)
-
-### 🔹 Page 2 — Services & Offers
-![Page 2](power-bi-dashboard/page2_services_offers.png)
-
-### 🔹 Page 3 — Revenue Risk
-![Page 3](power-bi-dashboard/page3_revenue_risk.png)
 ## 📈 Key Business Insights
 
 - **Overall churn rate: 26.54%** (1 in 4 customers)
